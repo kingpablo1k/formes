@@ -1,0 +1,17 @@
+{
+    "logged_in": true,
+    "subjects": {
+        "Direito Penal": {}
+    },
+    "notes": "",
+    "revisao": [
+        {
+            "materia": "Portugues",
+            "assunto": "Samira",
+            "acertos": 2,
+            "total": 66,
+            "% Acerto": "3.03%",
+            "data": "2025-03-02 22:11:05"
+        }
+    ]
+}
